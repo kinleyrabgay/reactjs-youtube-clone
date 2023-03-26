@@ -1,4 +1,4 @@
-# Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5
+## Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5
 This is a [React.js] project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
